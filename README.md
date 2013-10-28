@@ -6,7 +6,7 @@ OR
 
 Install node.js, clone this repo, and run
 
-  npm install
-  node app.js
+    npm install
+    node app.js
 
 Happy hacking :)
